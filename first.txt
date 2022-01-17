@@ -1,1 +1,4 @@
 aaaa
+
+・git add
+・git commit
